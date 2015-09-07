@@ -55,11 +55,11 @@ public class Primera {
 	}
 
 	public static int mul (int a, int b){		
-		int suma = 0;
+		int mul = 0;
 
-		suma = a * b;
+		mul = a * b;
 
-		return suma;
+		return mul;
 	}
 
 	public static double raiz (int numero){
